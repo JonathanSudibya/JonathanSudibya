@@ -2,9 +2,11 @@
 
 I'm Jonathan Sudibya a software developer that is intrested with distributed system and devops 😉. Currently employed by @deliveryhero
 
-💬 Primary Programming Language: Go
-☁️ Cloud Infrastructure        : AWS
-🗄️ Database                    : RDS (Mysql & Postgres), DynamoDB
+💬 Primary Programming Language = `Go`
+
+☁️ Cloud Infrastructure         = `AWS`
+
+🗄️ Database                     = `RDS (Mysql & Postgres), DynamoDB`
 
 ⚡ Fun fact: I am not a panda, but used to be called one 😲.
 
