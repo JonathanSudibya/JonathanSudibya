@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Jonathan Sudibya a software developer that is intrested with distributed system and devops 😉. Currently employed by @deliveryhero
+I'm Jonathan Sudibya a software developer that is intrested with distributed system and devops 😉. Currently employed by @rakuten
 
-💬 Primary Programming Language = `Go`
+💬 Primary Programming Language = `Go, Java`
 
 ☁️ Cloud Infrastructure         = `AWS`
 
